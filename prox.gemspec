@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Prox::VERSION
   spec.authors       = ["ahawkins"]
   spec.email         = ["adam@hawkins.io"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Transparent object proxy based on SimpleDelegator}
+  spec.summary       = %q{}
   spec.homepage      = ""
   spec.license       = "MIT"
 
